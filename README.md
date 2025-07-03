@@ -6,7 +6,7 @@ This repository contains the certificate I received for completing the **Website
 
 ## 📜 Certificate
 
-- 📄 [View Certificate]()
+- 📄 [View Certificate](https://github.com/SanthiyaBaskar/Website-Mastery-Certificate/upload/main)
 
 ---
 
